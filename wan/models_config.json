@@ -3,6 +3,7 @@
   ],
   "vae": [
     "https://huggingface.co/QuantStack/Wan2.2-T2V-A14B-GGUF/blob/main/VAE/Wan2.1_VAE.safetensors",
+    "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/vae/wan_2.1_vae.safetensors"
   ],
   "unet": [
   ],
