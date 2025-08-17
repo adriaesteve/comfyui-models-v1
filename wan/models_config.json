@@ -1,0 +1,30 @@
+{
+  "checkpoints": [
+  ],
+  "vae": [
+    "https://huggingface.co/QuantStack/Wan2.2-T2V-A14B-GGUF/blob/main/VAE/Wan2.1_VAE.safetensors",
+  ],
+  "unet": [
+  ],
+  "diffusion_models": [
+    "https://huggingface.co/QuantStack/Wan2.2-T2V-A14B-GGUF/blob/main/HighNoise/Wan2.2-T2V-A14B-HighNoise-Q6_K.gguf",
+    "https://huggingface.co/QuantStack/Wan2.2-T2V-A14B-GGUF/blob/main/LowNoise/Wan2.2-T2V-A14B-LowNoise-Q6_K.gguf"
+  ],
+  "text_encoders": [
+    "https://huggingface.co/city96/umt5-xxl-encoder-gguf/blob/main/umt5-xxl-encoder-Q6_K.gguf"
+  ],
+  "loras": [
+  ],
+  "upscale_models": [
+    "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
+  ],
+  "controlnet": [
+  ],
+  "clip_vision": [
+  ],
+  "ipadapter": [
+  ],
+  "style_models": [
+  ],
+  "clip": []
+} 
